@@ -1,0 +1,36 @@
+*{
+padding: 0;
+margin: 0;
+color: antiquewhite;
+}
+.navbar{
+    height: 60px;
+background-color: 0f1111;
+}
+.serbtn{
+
+}
+.logo{
+    color:#f08804;
+    font-size:25px ;
+}
+.options{
+margin-right:150px ;
+text-decoration: none;
+
+}
+.dropd{
+text-decoration: none;
+margin-right: 150px;
+
+}
+.pos{
+position: relative;
+left:800px;
+bottom:17px;
+}
+.in{
+    position:relative;
+    bottom:27px;
+    left:950px;
+}
